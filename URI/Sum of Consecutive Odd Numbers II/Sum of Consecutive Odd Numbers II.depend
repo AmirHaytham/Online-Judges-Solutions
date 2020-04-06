@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530751581 source:d:\uri problems\sum of consecutive odd numbers ii\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

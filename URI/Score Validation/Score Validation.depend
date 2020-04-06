@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530789395 source:d:\uri problems\score validation\main.cpp
+	<iomanip>
+	<bits/stdc++.h>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530387635 source:d:\uri problems\division of nlogonia\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

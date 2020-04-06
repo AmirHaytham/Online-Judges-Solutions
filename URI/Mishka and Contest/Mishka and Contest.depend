@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530383186 source:d:\uri problems\mishka and contest\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530742008 source:d:\uri problems\experiments\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	<iomanip>
+

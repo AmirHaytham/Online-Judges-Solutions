@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533982289 source:d:\spoj online judge\broken - broken keyboard\main.cpp
+	<bits/stdc++.h>
+	<set>
+

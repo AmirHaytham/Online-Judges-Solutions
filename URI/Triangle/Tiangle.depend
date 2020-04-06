@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529918392 source:d:\uri problems\tiangle\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+
