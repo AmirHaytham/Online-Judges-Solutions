@@ -1,2 +1,2 @@
-# Online-Judges-Solutions
+# Online Judges Solutions
 Some of my Online Judges Solutions
